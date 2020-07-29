@@ -630,7 +630,7 @@ a:hover {
 }
 
 .intro .overlay-itro {
-  background-color: rgba(0, 0, 0, 0.6);
+  /* background-color: rgba(0, 0, 0, 0.6); */
   position: absolute;
   top: 0;
   left: 0px;
@@ -1295,7 +1295,16 @@ footer .credits a {
     bottom: 15px;
   }
 }
-/* 
+
 #home {
-  background-image: linear-gradient(#5491A0, white);
+  background-image: linear-gradient(#14c1c7, white);
+}
+
+* {
+  list-style: none;
+}
+/* 
+.page-links {
+  display: flex;
+  justify-content: space-around;
 } */
